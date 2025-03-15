@@ -22,7 +22,7 @@ class TrendingNewsPage extends StatelessWidget {
           title:Obx(() => allServiceController.isSearch.value? SearchWidget(onChanged: (value) {
            allServiceController.searchTrendingNews(value);
           },
-          ) : Text('Breaking News!',style:Theme.of(context).textTheme.headlineSmall)),
+          ) : Text('Trending News!',style:Theme.of(context).textTheme.headlineSmall)),
           elevation:1,
           actions: [
             Obx(() =>
