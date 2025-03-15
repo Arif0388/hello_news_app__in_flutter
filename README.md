@@ -40,8 +40,7 @@ I<img src='https://media-hosting.imagekit.io//743de54dc5db4b78/Screenshot_202503
 
 ## .Sports News Screen
 
-<img src='https://media-hosting.imagekit.io//10153368102a4d40/Screenshot_20250315_115337.jpg?Expires=1836640434&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=eBr~piP9MkU8SPfI202xGV-gjVMLxdi3j3s2yQYyBjvMZbBz3hiQlQjuUYWQD2HDOBMAB-x1d5VjqG3jMQsedNmQomosW0sCC27MuxH-TpxO-~fmIaWIH6sR-ZOBXp12WI8gW8aZFtfHVfVDJyX0~ofrKNr0YTaKODHipDD6sc-eVKr~JtbZUcQtKHvwOJ24o~vT91NyCaU4enzbtCUndII9JDluMdtD4jgAhxtcXpxuE8ox~ToeG4tUH24MSa9yDBn7kOQUalxGjopN~uKISUfaDggyDERt7PBrS8hu6F5gBAvjoPokqfml8hrtB~FxwJ5bOAxJbk1-a3q3CmFNPA__
-' width=300>
+<img src='https://media-hosting.imagekit.io//10153368102a4d40/Screenshot_20250315_115337.jpg?Expires=1836640434&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=eBr~piP9MkU8SPfI202xGV-gjVMLxdi3j3s2yQYyBjvMZbBz3hiQlQjuUYWQD2HDOBMAB-x1d5VjqG3jMQsedNmQomosW0sCC27MuxH-TpxO-~fmIaWIH6sR-ZOBXp12WI8gW8aZFtfHVfVDJyX0~ofrKNr0YTaKODHipDD6sc-eVKr~JtbZUcQtKHvwOJ24o~vT91NyCaU4enzbtCUndII9JDluMdtD4jgAhxtcXpxuE8ox~ToeG4tUH24MSa9yDBn7kOQUalxGjopN~uKISUfaDggyDERt7PBrS8hu6F5gBAvjoPokqfml8hrtB~FxwJ5bOAxJbk1-a3q3CmFNPA__' width=300>
 <br>
 
 ## .Science News Screen
