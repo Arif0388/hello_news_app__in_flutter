@@ -88,5 +88,5 @@ Install dependencies
   5.smooth_page_indicator: ^1.2.1
   6.pretty_animated_buttons: ^0.0.2
   7.cached_network_image: ^3.4.1
-  8.webview_flutter: ^3.0.1
+  8.webview_flutter: ^4.10.0
 ```
