@@ -20,13 +20,13 @@ articles, and updates on various topics such as current events, sports, entertai
 ## Screenshots
 ## .WelcomePage Screen
 <img src='https://media-hosting.imagekit.io//db167a133b67493b/Screenshot_20250315_115240.jpg?Expires=1836638850&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=co6fK9~rnfFfcnrfi7oEL28EiV4aULv9bWTIXZUs5Sj08TQCvZiZXvxphR45EVcTIRJ0ABSZl4uSAUvIvH9-wxChoZLo2I61BMrJd-1woD219kco9ofTro8-~RW9q-Ljol83-bKQuFV36UfYeMYZUhJ8Oj9Q8IDTkZWKcls~KF0cZuTvkp-fXhv5BeSxhCs6PFHvFYdgUpn1J8quAmlgE7UHQZYWDdMEFNIiJhsS1pYFf2rP9dZtmIpslPTSxKhBbV9mjEIkOklMQfOnfLAMqj-b3eNoUbBVpE3tLn7kKVvFqIxFTftiuNuoPSd75v2ZHk64-e3xNtWcRhzBT-ZgUw__' width=300>
-
+<br>
+<br>
 
 ## .HomePage Screen 
 <img src='https://media-hosting.imagekit.io//152e97c0e4d54bb1/Screenshot_20250315_115252.jpg?Expires=1836640103&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=PDHy9Jo~cIPnooMU7B7uwxhqW3wd2Tttm1tK56Jn~f-q4Zzh9X0Qwh-md64-l-B1M0tlhU-F~NsmhwhiJT6wgbEJe84T18rqDkM4hIsq82MbUydt47cSioJ60wlFJeOak85JgJdsOYcIN0ij~MZW7iRLCedn7OeDp4-b~VHmIJu8pcOI6DUlEzywiaWQDwzH2DWa-qcBmKaqzvk6LASRADyZj3qQJxcvFuaVoRYSWTyvJ-JxGvDdunCp8DjqboC4CMITXOgPXAXo3MosDzPGAFeKGYsr9K9Eub8eroi7C8xuaA-nKWNR0ojbUF9fNkxuzwGNI3scOvG2LraYF70JrQ__' width=300>
 
 ## .Breaking News Screen
-
 I<img src='https://media-hosting.imagekit.io//743de54dc5db4b78/Screenshot_20250315_115301.jpg?Expires=1836640193&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=ML8-TEQf1Vdur4HkW-XilGgkAQZgYiD61zYnnWO~5BrLezQ29opBM5u57t2Fl4z0WzSfr8OagjrzjgxIHRvBksIbx0OIfdM3WPJNcONC1sX7jbnJCNg8aW3mNLOYcdgO621KFufbRB~EPsyodB9S5Qn-0CqTHwQlymFXY7vvOBRr3wR~UEacwGwBFvYxdWi~Z3VaB8z64V2V-U-Hpmoj4iu3olLycjnezm02Gf~MPl19TSNY9PkbPm-EWLvWHiX4lt4XRZFL~QB3GhSDMTfOYGPbYoK12f1lAnepGra27XZtz2Qof~Ixe~vaSnB5GUW~XLFmIAN96wdxqhA-x73XAA__' width=300>
 
 ## .Trending News Screen
