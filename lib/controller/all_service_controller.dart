@@ -42,7 +42,7 @@ class AllServiceController extends GetxController{
     ),
   ].obs;
   RxList<BreakingNewsModel> breakingNewsList =<BreakingNewsModel>[].obs;
-  List<TrendingNewsModel> trendingNewsList = [];
+  List<TrendingNewsModel> trendingNewsList = <TrendingNewsModel>[].obs;
   List<HindiNewsModel> hindiNewsList = [];
   RxList<AllCategoryNewsModel> allCategoryNewsList =<AllCategoryNewsModel>[].obs;
   RxInt slideValue =0.obs;
@@ -173,13 +173,13 @@ class AllServiceController extends GetxController{
         {
           i++;
            var allSearchNews = BreakingNewsModel(
-             description:news['description'],
-             author:news['author'],
-             content:news['content'],
-             publishedAt:news['publishedAt'],
-             title:news['title'],
-             url:news['url'],
-             urlToImage:news['urlToImage']
+             description:news['description']??'',
+             author:news['author']??'',
+             content:news['content']??'',
+             publishedAt:news['publishedAt']??'',
+             title:news['title']??'',
+             url:news['url']??'',
+             urlToImage:news['urlToImage']??''
            );
           breakingNewsList.add(allSearchNews);
           if(i==10)
@@ -209,25 +209,20 @@ class AllServiceController extends GetxController{
         trendingNewsList.clear();
         var body = jsonDecode(response.body);
         var articles = body['articles'];
-        int i = 0;
-        for(var news in articles)
-        {
-          i++;
+           int i=0;
+         for(var news in articles){
            var allSearchNews = TrendingNewsModel(
-             description:news['description'],
-             author:news['author'],
-             content:news['content'],
-             publishedAt:news['publishedAt'],
-             title:news['title'],
-             url:news['url'],
-             urlToImage:news['urlToImage']
+               description: news['description']??'',
+               author: news['author']??'',
+               content: news['content']??'',
+               publishedAt: news['publishedAt']??'',
+               title: news['title']??'',
+               url: news['url']??"",
+               urlToImage: news['urlToImage']??''
            );
-          trendingNewsList.add(allSearchNews);
-          if(i==10)
-          {
-            break;
-          }
-        }
+           trendingNewsList.add(allSearchNews);
+           if(i==10){break;}
+         }
       }
       else
       {
