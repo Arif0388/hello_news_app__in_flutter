@@ -25,11 +25,11 @@ articles, and updates on various topics such as current events, sports, entertai
 ## .HomePage Screen 
 <img src='https://media-hosting.imagekit.io//152e97c0e4d54bb1/Screenshot_20250315_115252.jpg?Expires=1836640103&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=PDHy9Jo~cIPnooMU7B7uwxhqW3wd2Tttm1tK56Jn~f-q4Zzh9X0Qwh-md64-l-B1M0tlhU-F~NsmhwhiJT6wgbEJe84T18rqDkM4hIsq82MbUydt47cSioJ60wlFJeOak85JgJdsOYcIN0ij~MZW7iRLCedn7OeDp4-b~VHmIJu8pcOI6DUlEzywiaWQDwzH2DWa-qcBmKaqzvk6LASRADyZj3qQJxcvFuaVoRYSWTyvJ-JxGvDdunCp8DjqboC4CMITXOgPXAXo3MosDzPGAFeKGYsr9K9Eub8eroi7C8xuaA-nKWNR0ojbUF9fNkxuzwGNI3scOvG2LraYF70JrQ__' width=300>
 
-   ## .Breaking News Screen
-![App Screenshot](
-https://media-hosting.imagekit.io//743de54dc5db4b78/Screenshot_20250315_115301.jpg?Expires=1836640193&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=ML8-TEQf1Vdur4HkW-XilGgkAQZgYiD61zYnnWO~5BrLezQ29opBM5u57t2Fl4z0WzSfr8OagjrzjgxIHRvBksIbx0OIfdM3WPJNcONC1sX7jbnJCNg8aW3mNLOYcdgO621KFufbRB~EPsyodB9S5Qn-0CqTHwQlymFXY7vvOBRr3wR~UEacwGwBFvYxdWi~Z3VaB8z64V2V-U-Hpmoj4iu3olLycjnezm02Gf~MPl19TSNY9PkbPm-EWLvWHiX4lt4XRZFL~QB3GhSDMTfOYGPbYoK12f1lAnepGra27XZtz2Qof~Ixe~vaSnB5GUW~XLFmIAN96wdxqhA-x73XAA__)
+## .Breaking News Screen
 
-   ## .Trending News Screen
+I<img src='https://media-hosting.imagekit.io//743de54dc5db4b78/Screenshot_20250315_115301.jpg?Expires=1836640193&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=ML8-TEQf1Vdur4HkW-XilGgkAQZgYiD61zYnnWO~5BrLezQ29opBM5u57t2Fl4z0WzSfr8OagjrzjgxIHRvBksIbx0OIfdM3WPJNcONC1sX7jbnJCNg8aW3mNLOYcdgO621KFufbRB~EPsyodB9S5Qn-0CqTHwQlymFXY7vvOBRr3wR~UEacwGwBFvYxdWi~Z3VaB8z64V2V-U-Hpmoj4iu3olLycjnezm02Gf~MPl19TSNY9PkbPm-EWLvWHiX4lt4XRZFL~QB3GhSDMTfOYGPbYoK12f1lAnepGra27XZtz2Qof~Ixe~vaSnB5GUW~XLFmIAN96wdxqhA-x73XAA__' width=300>
+
+## .Trending News Screen
 ![App Screenshot](
 https://media-hosting.imagekit.io//33b6e1d33d2c4a92/Screenshot_20250315_115309.jpg?Expires=1836640300&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=oNa8Uj5PJ4~AXtDJCyk6wNOtynNqUVgnnN7IbD~QnKMk2Qs5iOMqfMiHA~8s7VAfrfmhz2kunq2kPd6WVGl5XjtstYEXgOwEUT4Urn2EvO5eQ5eODXt0fP2xAmA-bf5WXV3mEBHyesYqHvbM1EwLrkHHeQuhKBoSMdZsQDk1~ctomUsX0xTKm~i8UWKL7vB2bNrJAv04lRu8JlBOfWJ~iCuXf6JuBUm4AI9L0Mr-pjLLqj2PC9mzkyjPwAY6Vi268433KGdKUyRT28VTi4az9oi3X41NP8sN3ewFqI0e8EKwJ7WG52WK1d09rSxqcApeDE-SHzSiOYN6ECCbADGyxA__)
 
