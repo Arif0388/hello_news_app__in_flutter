@@ -1,4 +1,3 @@
-
 # 📰 Hello News App With Api
 
 🚀A news app is a mobile or web-based application designed to provide users with the latest news,
