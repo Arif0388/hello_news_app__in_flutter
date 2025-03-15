@@ -13,7 +13,7 @@ articles, and updates on various topics such as current events, sports, entertai
 
 **Client:** Flutter, Dart
 
-**Server:** <a href='News.org api'>
+**Server:** <a href='News.org api'><a/
 
 
 ## Screenshots
