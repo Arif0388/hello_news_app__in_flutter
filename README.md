@@ -25,7 +25,7 @@ articles, and updates on various topics such as current events, sports, entertai
 
    ## .HomePage Screen 
 ![App Screenshot](
- https://media-hosting.imagekit.io//152e97c0e4d54bb1/Screenshot_20250315_115252.jpg?Expires=1836640103&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=PDHy9Jo~cIPnooMU7B7uwxhqW3wd2Tttm1tK56Jn~f-q4Zzh9X0Qwh-md64-l-B1M0tlhU-F~NsmhwhiJT6wgbEJe84T18rqDkM4hIsq82MbUydt47cSioJ60wlFJeOak85JgJdsOYcIN0ij~MZW7iRLCedn7OeDp4-b~VHmIJu8pcOI6DUlEzywiaWQDwzH2DWa-qcBmKaqzvk6LASRADyZj3qQJxcvFuaVoRYSWTyvJ-JxGvDdunCp8DjqboC4CMITXOgPXAXo3MosDzPGAFeKGYsr9K9Eub8eroi7C8xuaA-nKWNR0ojbUF9fNkxuzwGNI3scOvG2LraYF70JrQ__)
+ https://media-hosting.imagekit.io//152e97c0e4d54bb1/Screenshot_20250315_115252.jpg?Expires=1836640103&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=PDHy9Jo~cIPnooMU7B7uwxhqW3wd2Tttm1tK56Jn~f-q4Zzh9X0Qwh-md64-l-B1M0tlhU-F~NsmhwhiJT6wgbEJe84T18rqDkM4hIsq82MbUydt47cSioJ60wlFJeOak85JgJdsOYcIN0ij~MZW7iRLCedn7OeDp4-b~VHmIJu8pcOI6DUlEzywiaWQDwzH2DWa-qcBmKaqzvk6LASRADyZj3qQJxcvFuaVoRYSWTyvJ-JxGvDdunCp8DjqboC4CMITXOgPXAXo3MosDzPGAFeKGYsr9K9Eub8eroi7C8xuaA-nKWNR0ojbUF9fNkxuzwGNI3scOvG2LraYF70JrQ__){:height="200px" width="300px"}
 
    ## .Breaking News Screen
 ![App Screenshot](
