@@ -9,7 +9,6 @@ import 'package:newsapplication/Pages/HomePage/widget/category_tile_widget.dart'
 import 'package:newsapplication/Pages/HomePage/widget/heading_widget.dart';
 import 'package:newsapplication/Pages/HomePage/widget/trending_news_widget.dart';
 import 'package:newsapplication/Pages/Web_View_Page/web_view_page.dart';
-import 'package:newsapplication/Pages/Widget/search_widget.dart';
 import 'package:newsapplication/controller/all_service_controller.dart';
 import 'package:smooth_page_indicator/smooth_page_indicator.dart';
 
