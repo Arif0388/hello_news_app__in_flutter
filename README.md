@@ -20,7 +20,8 @@ articles, and updates on various topics such as current events, sports, entertai
 ## Screenshots
 ## .WelcomePage Screen
 ![App Screenshot](
-   https://media-hosting.imagekit.io//db167a133b67493b/Screenshot_20250315_115240.jpg?Expires=1836638850&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=co6fK9~rnfFfcnrfi7oEL28EiV4aULv9bWTIXZUs5Sj08TQCvZiZXvxphR45EVcTIRJ0ABSZl4uSAUvIvH9-wxChoZLo2I61BMrJd-1woD219kco9ofTro8-~RW9q-Ljol83-bKQuFV36UfYeMYZUhJ8Oj9Q8IDTkZWKcls~KF0cZuTvkp-fXhv5BeSxhCs6PFHvFYdgUpn1J8quAmlgE7UHQZYWDdMEFNIiJhsS1pYFf2rP9dZtmIpslPTSxKhBbV9mjEIkOklMQfOnfLAMqj-b3eNoUbBVpE3tLn7kKVvFqIxFTftiuNuoPSd75v2ZHk64-e3xNtWcRhzBT-ZgUw__)
+<img src='   https://media-hosting.imagekit.io//db167a133b67493b/Screenshot_20250315_115240.jpg?Expires=1836638850&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=co6fK9~rnfFfcnrfi7oEL28EiV4aULv9bWTIXZUs5Sj08TQCvZiZXvxphR45EVcTIRJ0ABSZl4uSAUvIvH9-wxChoZLo2I61BMrJd-1woD219kco9ofTro8-~RW9q-Ljol83-bKQuFV36UfYeMYZUhJ8Oj9Q8IDTkZWKcls~KF0cZuTvkp-fXhv5BeSxhCs6PFHvFYdgUpn1J8quAmlgE7UHQZYWDdMEFNIiJhsS1pYFf2rP9dZtmIpslPTSxKhBbV9mjEIkOklMQfOnfLAMqj-b3eNoUbBVpE3tLn7kKVvFqIxFTftiuNuoPSd75v2ZHk64-e3xNtWcRhzBT-ZgUw__'></>
+   )
 
 
    ## .HomePage Screen 
