@@ -91,6 +91,6 @@ Install dependencies
   8.webview_flutter: ^4.10.0
 ```
 # Download
-<a href='https://github.com/Arif0388/hello_news_app__in_flutter/releases/download/1.0/Hello.News.apk'>
+<a href='https://github.com/Arif0388/hello_news_app__in_flutter/releases/download/1.0.1/news.app.apk'>
 <img src='https://media-hosting.imagekit.io//95a2d9a03b2a4b89/Screenshot%202025-03-15%20193455.png?Expires=1836656035&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=DmwYIGZU0t9d4K2TF-waYHpOxBze8qokwfSXCoTp82c-WjAPyWqtKxgfXjEDIMctbI0S16cAs9nfTw9pIYQEEYrhaHf9KPqSLsfwzEDTDI0TA1L5OSemhS8SSU2GXybnZCS2-J3Qo7xtXrT5fDKTQUEFtTZ7WMnKj1m-RmL2GljPcpll26kxDhA94Z8PsGSCXDLALrwADd~9ZxzJfhHW20otaviI~ryqG~Y82OZGjujaMF5XZztomNbsaCF7TnPgFS1ghqZN4a80vSgNiPiWt8DYWzTbqh2IVArKY~gWWbkqjk4jLnuZGQctxMhKTlxpuANTTstgkmU2ONL3UzCRsg__'width=200>
  <a/>
