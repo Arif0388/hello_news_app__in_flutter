@@ -32,7 +32,7 @@ class _CategoryNewsPageState extends State<CategoryNewsPage> {
       appBar:AppBar(
         centerTitle:true,
         title:Obx(() => allServiceController.isSearch.value? SearchWidget(onChanged: (value) {
-
+           allServiceController.searchNews(value);
         },
         ) : Text(widget.newsCategoryName,style:Theme.of(context).textTheme.headlineSmall)),
         elevation:1,
