@@ -162,6 +162,7 @@ class AllServiceController extends GetxController{
   Future<void> searchBreakingNews(String search)async{
     try{
       String sbreakingNewsUrl = 'https://newsapi.org/v2/everything?q=$search&sources=techcrunch&apiKey=0321e45667514b32bf13f530aa35b3b7';
+      isLoading.value = true;
       final response = await http.get(Uri.parse(sbreakingNewsUrl));
       if(response.statusCode == 200)
       {
@@ -198,11 +199,13 @@ class AllServiceController extends GetxController{
         print(e);
       }
     }
+    isLoading.value =false;
   }
 
-  Future<void> searchTrendingNews(String search)async{
+  Future<void> searchTrendingNews(String search)async {
     try{
       String strendingNewsUrl = 'https://newsapi.org/v2/everything?q=$search&domains=wsj.com&apiKey=0321e45667514b32bf13f530aa35b3b7';
+      isLoading.value = true;
       final response = await http.get(Uri.parse(strendingNewsUrl));
       if(response.statusCode == 200)
       {
@@ -234,6 +237,49 @@ class AllServiceController extends GetxController{
         print(e);
       }
     }
+    isLoading.value =false;
+  }
+
+  Future<void> searchNews(String query) async {
+    // Update the URL to use the 'q' parameter for search
+    String searchNewsUrl = 'https://newsapi.org/v2/everything?q=$query&apiKey=0321e45667514b32bf13f530aa35b3b7';
+
+    // Set loading state to true while fetching data
+    isLoading.value = true;
+
+    // Make the HTTP GET request
+    final response = await http.get(Uri.parse(searchNewsUrl));
+
+    // Parse the response JSON
+    var data = jsonDecode(response.body);
+
+    if (response.statusCode == 200) {
+      // Clear any previous news data
+      allCategoryNewsList.clear();
+
+      // Iterate through the articles in the response
+      data['articles'].forEach((e) {
+        // Check if both urlToImage and description are not null
+        if (e['urlToImage'] != null && e['description'] != null) {
+          // Create an AllCategoryNewsModel object for each article
+          var allNews = AllCategoryNewsModel(
+              author: e['author'],
+              content: e['content'],
+              description: e['description'],
+              publishedAt: e['publishedAt'],
+              title: e['title'],
+              url: e['url'],
+              urlToImage: e['urlToImage']
+          );
+
+          // Add the created model object to the list
+          allCategoryNewsList.add(allNews);
+        }
+      });
+    }
+
+    // Set loading state to false after fetching the data
+    isLoading.value = false;
   }
 
 }
