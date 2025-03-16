@@ -6,6 +6,7 @@ import 'package:newsapplication/Pages/Breaking_News_Page/breaking_news_page.dart
 import 'package:newsapplication/Pages/Category_News_Page/category_news_page.dart';
 import 'package:newsapplication/Pages/HomePage/widget/breaking_news_widget.dart';
 import 'package:newsapplication/Pages/HomePage/widget/category_tile_widget.dart';
+import 'package:newsapplication/Pages/HomePage/widget/developer_widget.dart';
 import 'package:newsapplication/Pages/HomePage/widget/heading_widget.dart';
 import 'package:newsapplication/Pages/HomePage/widget/trending_news_widget.dart';
 import 'package:newsapplication/Pages/Web_View_Page/web_view_page.dart';
@@ -22,6 +23,16 @@ class HomePage extends StatelessWidget {
     AllServiceController allServiceController = Get.put(AllServiceController());
     return Scaffold(
       appBar:AppBar(
+        actions: [
+         IconButton(onPressed: (){
+           showDialog(
+               context:context,
+               builder: (BuildContext context) {
+                 return const DeveloperInfoDialog();
+               }
+           );
+         }, icon:const Icon(Icons.info_outline_rounded)),
+        ],
         elevation:0.0,
         centerTitle:true,
         title:const Row(
