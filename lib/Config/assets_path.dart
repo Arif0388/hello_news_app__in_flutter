@@ -6,4 +6,5 @@ class AssetsPath{
  static String generalImage ='assets/Images/general.jpg';
  static String scienceImage ='assets/Images/science.jpg';
  static String welcomeImage = 'assets/Images/welcomeImg.jpg';
+ static String developerImage = 'assets/Images/developer.png';
 }
