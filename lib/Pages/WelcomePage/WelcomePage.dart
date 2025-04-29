@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:newsapplication/Config/assets_path.dart';
+import 'package:newsapplication/Pages/AuthPage/signup_page.dart';
 import 'package:newsapplication/Pages/HomePage/HomePage.dart';
 import 'package:newsapplication/controller/all_service_controller.dart';
 import 'package:pretty_animated_buttons/pretty_animated_buttons.dart';
@@ -29,7 +30,7 @@ class WelcomePage extends StatelessWidget {
                   allServiceController.trendingNews();
                   allServiceController.breakingNews();
                   allServiceController.trendingHindiNews();;
-                Get.offAll(const HomePage());
+                Get.offAll(const SignupPage());
               },
               ),
             ],
