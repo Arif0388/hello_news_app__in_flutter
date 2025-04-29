@@ -2,12 +2,14 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:newsapplication/Config/assets_path.dart';
+import 'package:newsapplication/Pages/Controller/auth_controller.dart';
 
 class DeveloperInfoDialog extends StatelessWidget {
   const DeveloperInfoDialog({super.key});
 
   @override
   Widget build(BuildContext context) {
+    AuthController authController = Get.put(AuthController());
     return AlertDialog(
       title: const Text('About the Developer'),
       content:Row(
@@ -26,12 +28,22 @@ class DeveloperInfoDialog extends StatelessWidget {
         ],
       ),
       actions: [
-        TextButton(
-          child: const Text('Close'),
-          onPressed: () {
-           Get.back();
-          },
-        ),
+        Row(
+          mainAxisAlignment:MainAxisAlignment.spaceBetween,
+          children: [
+          TextButton(
+            child: const Text('Close'),
+            onPressed: () {
+              Get.back();
+            },
+          ),
+          TextButton(
+            child: const Text('Log Out'),
+            onPressed: () {
+             authController.signOut();
+            },
+          ),
+        ],)
       ],
     );
   }
