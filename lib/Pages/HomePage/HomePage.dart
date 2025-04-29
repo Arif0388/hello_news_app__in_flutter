@@ -37,7 +37,7 @@ class HomePage extends StatelessWidget {
         centerTitle:true,
         title:const Row(
           mainAxisAlignment:MainAxisAlignment.center,
-          children: [Text('Hello'),Text(' News',style:TextStyle(color:Colors.blue,fontWeight:FontWeight.bold),)],)
+          children: [Text('Quick'),Text(' News',style:TextStyle(color:Colors.blue,fontWeight:FontWeight.bold),)],)
       ),
       body:Padding(
         padding: const EdgeInsets.only(top:10,right:5,left:5),
@@ -65,8 +65,6 @@ class HomePage extends StatelessWidget {
                            },
                          ),
                        )),
-
-
                 //.........breaking news..........
                 HeadingWidget(
                     titleHeading:'Breaking News',
